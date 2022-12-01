@@ -17,6 +17,7 @@ Share your solutions for [Advent of Code](https://adventofcode.com/)!
 | [scole66/adventofcode2021](https://github.com/scole66/adventofcode2021) | Rust |
 | [xiu/advent-of-code](https://github.com/xiu/advent-of-code) | Go |
 | [zachwlewis/adventofcode](https://github.com/zachwlewis/adventofcode) | Python |
+| [AlexJaeger101/AdventOfCode2022 ](https://github.com/AlexJaeger101/AdventOfCode2022/tree/main)| C++ |
 
 # [2021](https://adventofcode.com/2021)
 
