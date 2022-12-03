@@ -9,16 +9,17 @@ Share your solutions for [Advent of Code](https://adventofcode.com/)!
 | [alexpsi/advent2020](https://github.com/alexpsi/advent2020) | JavaScript |
 | [cliffbird/adventofcode](https://github.com/cliffbird/adventofcode) | Python |
 | [csessh/AdventOfCode](https://github.com/csessh/AdventOfCode) | Python C++ |
-| [dcoles/adventofcode](https://dcoles/adventofcode) | Rust |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode) | Rust |
 | [dormedas/aocr](https://github.com/dormedas/aocr) | Rust |
 | [gmhorn/aoc22](https://github.com/gmhorn/aoc22) | Rust |
-| [marcus-rosti/advent-of-code-scala](http://github.com/marcus-rosti/advent-of-code-scala) | Scala Cats-Effect fs2 |
+| [marcus-rosti/advent-of-code-scala](https://github.com/marcus-rosti/advent-of-code-scala) | Scala Cats-Effect fs2 |
 | [QuentinMoss/Advent-of-Code](https://github.com/QuentinMoss/Advent-of-Code) | Rust Python |
 | [scole66/adventofcode2021](https://github.com/scole66/adventofcode2021) | Rust |
 | [xiu/advent-of-code](https://github.com/xiu/advent-of-code) | Go |
 | [zachwlewis/adventofcode](https://github.com/zachwlewis/adventofcode) | Python |
 | [AlexJaeger101/AdventOfCode2022 ](https://github.com/AlexJaeger101/AdventOfCode2022/tree/main)| C++ |
 | [foax/adventofcode](https://github.com/foax/adventofcode/tree/master/2022)| Python Go |
+| [unixlab/AoC2022](https://github.com/unixlab/AoC2022)| Go |
 
 # [2021](https://adventofcode.com/2021)
 
