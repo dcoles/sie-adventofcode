@@ -2,6 +2,18 @@
 
 Share your solutions for [Advent of Code](https://adventofcode.com/)!
 
+# [2024](https://adventofcode.com/2024)
+
+| Project | Language |
+| ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2024#readme) | Rust |
+
+# [2023](https://adventofcode.com/2023)
+
+| Project | Language |
+| ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2023#readme) | Rust |
+
 # [2022](https://adventofcode.com/2022)
 
 | Project | Language |
@@ -10,7 +22,7 @@ Share your solutions for [Advent of Code](https://adventofcode.com/)!
 | [alexpsi/advent2020](https://github.com/alexpsi/advent2020) | JavaScript |
 | [cliffbird/adventofcode](https://github.com/cliffbird/adventofcode) | Python |
 | [csessh/AdventOfCode](https://github.com/csessh/AdventOfCode) | Python C++ |
-| [dcoles/adventofcode](https://github.com/dcoles/adventofcode) | Rust |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2022#readme) | Rust |
 | [dormedas/aocr](https://github.com/dormedas/aocr) | Rust |
 | [foax/adventofcode](https://github.com/foax/adventofcode/tree/master/2022)| Python Go |
 | [gmhorn/aoc22](https://github.com/gmhorn/aoc22) | Rust |
@@ -26,24 +38,29 @@ Share your solutions for [Advent of Code](https://adventofcode.com/)!
 
 | Project | Language |
 | ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2021#readme) | Rust |
 | [marcus-rosti/advent-of-code-haskell](https://github.com/Marcus-Rosti/advent-of-code-haskell) | Haskell |
 
 # [2020](https://adventofcode.com/2020)
 
 | Project | Language |
 | ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2020#readme) | Rust |
 
 # [2019](https://adventofcode.com/2019)
 
 | Project | Language |
 | ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2019#readme) | Rust |
 
 # [2018](https://adventofcode.com/2018)
 
 | Project | Language |
 | ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2018#readme) | Rust |
 
 # [2017](https://adventofcode.com/2017)
 
 | Project | Language |
 | ------- |--------- |
+| [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2017#readme) | Rust |
