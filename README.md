@@ -7,12 +7,14 @@ Share your solutions for [Advent of Code](https://adventofcode.com/)!
 | Project | Language |
 | ------- |--------- |
 | [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2024#readme) | Rust |
+| [drakonstein/advent](https://github.com/drakonstein/advent/tree/main/2024) | BASH |
 
 # [2023](https://adventofcode.com/2023)
 
 | Project | Language |
 | ------- |--------- |
 | [dcoles/adventofcode](https://github.com/dcoles/adventofcode/tree/master/2023#readme) | Rust |
+| [drakonstein/advent](https://github.com/drakonstein/advent/tree/main/2023) | BASH |
 
 # [2022](https://adventofcode.com/2022)
 
